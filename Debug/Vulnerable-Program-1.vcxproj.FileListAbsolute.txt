@@ -1,0 +1,2 @@
+C:\Users\holai\source\repos\vuln-prg\Debug\Vulnerable-Program-1.exe
+C:\Users\holai\source\repos\vuln-prg\Debug\Vulnerable-Program-1.pdb
